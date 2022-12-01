@@ -9,3 +9,18 @@ Popped a comment here.
 
 
 2. Comment added here.
+
+
+Added somthing here but the most important is the commit NUMBER 
+
+
+commit on (3). FIRST
+
+
+changed here
+
+
+changed again here
+
+
+again and again
